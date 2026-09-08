@@ -1,0 +1,7 @@
+1- Automatizar la comparación de Libros de excel* Urgente
+2- Revisar texto dentro de un pdf y convertirlo en una tabla para su analisis o creación de 
+reporteria para KPIs.*Media
+3- Extracción de datos de una bbdd a traves de un interfaz que permita sacar solo los datos mas 
+relevantes para reporterias.*Media
+4- Creacion de reporteria automatizada con excel atraves del programa, pemritiendo generar tablas y
+graficos para mostrar los KPIs.*Baja
