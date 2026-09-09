@@ -58,7 +58,7 @@ def comparar():
 # INTERFAZ GRÁFICA
 # ==========================================
 ventana = tk.Tk()
-ventana.title("Comparador de Archivos Excel - Documento Completo")
+ventana.title("Comparer")
 ventana.geometry("400x250") # Ventana más compacta ya que quitamos la entrada de texto
 
 # Sección Archivo 1
